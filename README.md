@@ -4,7 +4,7 @@ A custom Lovelace card for filtering and exporting Home Assistant entities as JS
 
 ✨ **Created with Vibe Coding** - This card was developed using AI assistance to transform ideas into practical code!
 
-![Entity Exporter Preview](https://raw.githubusercontent.com/scharc/ha-entity-exporter-card/main/images/preview.png)
+![Entity Exporter Preview](https://raw.githubusercontent.com/scharc/ha-entity-exporter-card/main/images/entity-exporter-card.png)
 
 ## Features
 
